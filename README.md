@@ -5,4 +5,4 @@ server
 
 at the moment the website part looks like this.
 
-![alt text](https://i.imgur.com/eYG7xWK.png)
+![alt text](https://i.imgur.com/80ckyqL.png)
